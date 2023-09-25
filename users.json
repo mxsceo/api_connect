@@ -1,1 +1,26 @@
-a87ff679a2f3e71d9181a67b7542122c
+{
+  "free_users": [
+    {
+      "hwid": "hwid1",
+      "name": "Utilisateur Gratuit 1",
+      "expiration_date": "2023-12-31"
+    },
+    {
+      "hwid": "hwid2",
+      "name": "Utilisateur Gratuit 2",
+      "expiration_date": "2023-12-31"
+    }
+  ],
+  "activated_licenses": [
+    {
+      "license_key": "licence1",
+      "user": "Utilisateur Licencié 1",
+      "expiration_date": "2023-12-31"
+    },
+    {
+      "license_key": "licence2",
+      "user": "Utilisateur Licencié 2",
+      "expiration_date": "2023-12-31"
+    }
+  ]
+}
